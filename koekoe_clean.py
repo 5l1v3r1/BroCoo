@@ -1,7 +1,7 @@
 """
-Version         	 :           1.0.0
-Developed by    :           Davy Boekhout
-GitHub				 :			 https://github.com/zippy1990/BroCoo
+Version         :       1.0.0
+Developed by    :       Davy Boekhout
+GitHub		:	https://github.com/zippy1990/BroCoo
 
 Automating file extraction and analysis with
 Cuckoo Sandbox, the Bro Network Security Monitor and Security Onion.
